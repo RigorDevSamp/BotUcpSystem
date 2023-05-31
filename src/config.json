@@ -1,13 +1,13 @@
 {
-	"discord_token": "token",
+	"discord_token": "MTAyMzU4NzU5MTQxNDYyODQxMA.Go8nl_.DTXGzkR8jA-yqHq72z5_vZcZYwl8i1Bsd28z3Q",
 	"prefix": "!",
-	"owners": ["bot owner id akun elu"], 
+	"owners": ["1096993786720165961"], 
 	"MYSQL_HOST": "localhost",
 	"MYSQL_USERNAME": "root",
 	"MYSQL_PASSWORD": "",
-	"MYSQL_DATABASE": "nama db",
-	"MemberRole": "role id buat di kasih pas habis register",
-	"AdminReportedBugs": "channel id buat pesan pesan habis player ngisi report bugs form modals",
-	"Server_Ip": "server ip",
+	"MYSQL_DATABASE": "aufaruq",
+	"MemberRole": "1099135685350404096",
+	"AdminReportedBugs": "1099135748701159434",
+	"Server_Ip": "43.134.132.150",
 	"Server_Port": 7777
 }
